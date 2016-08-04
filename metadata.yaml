@@ -1,0 +1,39 @@
+_repo: The-Lesson-of-the-Master_898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: '<p><b>"You know as well as you sit there that you''d put a pistol-ball
+  into your brain if you had written my books!"</b><br><br>Exemplifying Henry James''s
+  famous belief  that "Art makes life," <i>The Lesson of the Master</i> is a piercing
+  study of the life that  art makes. When the tale''s protagonist--a gifted young
+  writer--meets and befriends  a famous author he has long idolized, he is both repelled
+  by and attracted to the  artist''s great secret: the emotional costs of a life dedicated
+  to art.<br><br> With extraordinary  psychological insight and devastating wit, the
+  novella asks the question of whether  art is, ultimately, demeaning or ennobling
+  for the artist, while capturing the ambiguities  of a life devoted to art, and the
+  choices artists must make. The expatriate James  knew these choice well by the time
+  he published the novella in the <i>Universal Review</i> in 1888, and the work reveals
+  him at the height of his powers.<br><br> <b>The Art of The Novella Series<br><br>...'
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Mentoring of authors -- Fiction'
+- GITenberg
+title: The Lesson of the Master
+url: http://www.gutenberg.org/ebooks/898
