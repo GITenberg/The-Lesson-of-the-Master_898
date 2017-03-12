@@ -1,5 +1,8 @@
 _repo: The-Lesson-of-the-Master_898
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -20,6 +23,8 @@ description: '<p><b>"You know as well as you sit there that you''d put a pistol-
   choices artists must make. The expatriate James  knew these choice well by the time
   he published the novella in the <i>Universal Review</i> in 1888, and the work reveals
   him at the height of his powers.<br><br> <b>The Art of The Novella Series<br><br>...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/898#The-Lesson-of-the-Master
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
